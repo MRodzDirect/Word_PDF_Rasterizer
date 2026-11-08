@@ -1,0 +1,3 @@
+python-docx
+img2pdf
+Pillow

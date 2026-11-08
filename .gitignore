@@ -1,0 +1,54 @@
+# ==========================================
+# Documentos privados y sensibles (NUNCA SUBIR)
+# ==========================================
+*.docx
+*.doc
+*.docm
+*.dotx
+*.pdf
+*.odt
+*.rtf
+*.xlsx
+*.xls
+*.pptx
+
+# Salidas y páginas rasterizadas
+output_pages/
+*_pages/
+*_work/
+output.*
+*.png
+*.jpg
+*.jpeg
+*.tiff
+
+# ==========================================
+# Entornos virtuales de Python
+# ==========================================
+ambiente_virtual/
+venv/
+.venv/
+env/
+
+# ==========================================
+# Caché de Python y herramientas
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# ==========================================
+# Herramientas y binarios pesados locales
+# ==========================================
+tools/
+*.exe
+*.dll
+
+# ==========================================
+# IDEs y SO
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
